@@ -1365,3 +1365,13 @@ body {
     border: none;
     border-radius: 12px;
 }
+
+.spotify-player {
+    margin-top: 40px;
+}
+
+@media (max-width: 600px) {
+    .spotify-player {
+        margin-top: 120px;
+    }
+}
